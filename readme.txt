@@ -1,0 +1,1 @@
+This plugin adds an animated background image to the Items in the Item List like the discussions index and discussions and comments when hovering .
